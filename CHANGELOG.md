@@ -17,3 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Deprecated
 
+## [1.0.0] - 2023-12-XX
+
+### Added
+
+- Initial release of ncar_gwd code from GEOSgcm_GridComp v2.3.2
